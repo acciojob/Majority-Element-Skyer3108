@@ -31,6 +31,7 @@ function findMajorityElement(nums) {
         return -1; // Majority element not found
     }
 }
+const n = [2, 1, 2];
 
 
-findMajorityElement(nums)
+findMajorityElement(n)
